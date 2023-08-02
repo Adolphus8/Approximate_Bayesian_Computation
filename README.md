@@ -15,10 +15,19 @@ The [2014 NASA-LaRC Uncertainty Quantification Challenge](https://uqtools.larc.n
 The focus of the case study is on problems A1 and A2 of the challenge.
 
 Note that the user is required to run the following codes in sequence:
-1)
+1) NASA_LaRC_Challenge_Part1.m
+2) NASA_LaRC_Challenge_Part2.m
+3) NASA_LaRC_Challenge_Part3.m
 
+## 3) The 2008 Thermal Problem
 
-## 3) The 2014 NASA-LaRC Uncertainty Quantification Challenge
+The [2008 Thermal Problem](https://www.sciencedirect.com/science/article/pii/S004578250700504X) serves as the second case study to evluate the compare the Bayesian model updating results on a white-box, physics-based model using ABC and the subsequent model validation performance between the different distance metrics discussed. 
+The focus of the case study is on the ensemble validation procedure.
+
+Note that the user is required to run the following codes in sequence:
+1) NASA_LaRC_Challenge_Part1.m
+2) NASA_LaRC_Challenge_Part2.m
+3) NASA_LaRC_Challenge_Part3.m
 
 ## Author:
 * Name: Adolphus Lye
