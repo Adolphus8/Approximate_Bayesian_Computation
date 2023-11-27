@@ -31,4 +31,4 @@ Note that the user is required to download the [RiskCalc MATLAB package](https:/
 ## Author:
 * Name: Adolphus Lye
 * Contact: snrltsa@nus.edu.sg
-* Affiliation: Singapore Nuclear Research and Safety Initiative, National University of Singapore
+* Affiliation: Singapore Nuclear Research and Safety Institute, National University of Singapore
