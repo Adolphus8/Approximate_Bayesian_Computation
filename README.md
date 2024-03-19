@@ -28,6 +28,9 @@ Note that the user is required to download the [RiskCalc MATLAB package](https:/
 1) Thermal_Problem_Part1.m
 2) Thermal_Problem_Part2.m
 
+## Reference:
+* A. Lye, S. Ferson, and S. Xiao (2024). Comparison between distance functions for Approximate Bayesian Computation towards Stochastic model updating and Model validation under limited data. *ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part A: Civil Engineering, 10*, 03124001. doi: [10.1061/AJRUA6.RUENG-1223](https://ascelibrary.org/doi/10.1061/AJRUA6.RUENG-1223)
+
 ## Author:
 * Name: Adolphus Lye
 * Contact: snrltsa@nus.edu.sg
