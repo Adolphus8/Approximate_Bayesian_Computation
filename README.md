@@ -28,8 +28,15 @@ Note that the user is required to download the [RiskCalc MATLAB package](https:/
 1) Thermal_Problem_Part1.m
 2) Thermal_Problem_Part2.m
 
+## 4) Jenson-Shannon
+
+The Jenson-Shannon divergence is a distance function that is studied for the purpose of stochastic model updating via ABC. There within lies two folders:
+1) Numerical-Example: Run the MATLAB file titled: "Illustrative_example.m" which provides a numerical set-up to demonstrate the mathematical properties of the Jenson-Shannon divergence distance function.
+2) NASA-LaRC-Challenge: Run the MATLAB file titled: "NASA_LaRC_Challenge_Part1.m", followed by "NASA_LaRC_Challenge_Part2.m" to evluate the Bayesian model updating results on a black-box model using ABC and the subsequent model validation performance. The focus of the case study is on problems A1 and A2 of the challenge.
+
 ## Reference:
 * A. Lye, S. Ferson, and S. Xiao (2024). Comparison between distance functions for Approximate Bayesian Computation towards Stochastic model updating and Model validation under limited data. *ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part A: Civil Engineering, 10*, 03124001. doi: [10.1061/AJRUA6.RUENG-1223](https://ascelibrary.org/doi/10.1061/AJRUA6.RUENG-1223)
+* A. Lye, S. Ferson, and S. Xiao (2024). Stochastic Model Updating Using The Jenson-Shannon Divergence For Calibration and Validation Under Limited Data. *In the Proceedings of the 34th European Safety And Reliability Conference, 1*. Link to paper: [Click here](https://esrel2024.com/wp-content/uploads/articles/part1/stochastic-model-updating-using-jenson-shannon-divergence-for-calibration-and-validation-under-limited-data.pdf)
 
 ## Author:
 * Name: Adolphus Lye
